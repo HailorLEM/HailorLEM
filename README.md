@@ -33,7 +33,7 @@
 
 | Project | What it is | Links |
 |---|---|---|
-| 🎓 **ESL Automation Suite** | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, C1 exercise builder | [repo](https://github.com/HailorLEM/esl-automation-suite) |
+| 🎓 **ESL Automation Suite** | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, test-english adaptation | [repo](https://github.com/HailorLEM/esl-automation-suite) |
 | 🧩 **ESL Minecraft Plugins** | Four custom PaperMC plugins: AI-scored chat money, earnings-driven level-ups, vocab quiz, daily tasks | [chat2earn](https://github.com/HailorLEM/chat2earn) · [englishprogression](https://github.com/HailorLEM/englishprogression) · [vocabquiz](https://github.com/HailorLEM/vocabquiz) · [dailyenglish](https://github.com/HailorLEM/dailyenglish) |
 | ⚡ **ChainLuck** | Provably-fair demo crypto casino: Dice, Plinko, Blackjack, Slots. Play money only | [repo](https://github.com/HailorLEM/demo-casino) · [live](https://hailorlem.github.io/demo-casino) |
 

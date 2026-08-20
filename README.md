@@ -35,7 +35,7 @@
 | Project | What it is | Links |
 |---|---|---|
 | 🎓 **ESL Automation Suite** | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, C1 exercise builder | [repo](https://github.com/HailorLEM/esl-automation-suite) |
-| 🎮 **Minecraft English Server** | Gamified ESL server: chat color = English level A0→D1, AI-scored chat money, quests, 4 custom plugins with source | [repo](https://github.com/HailorLEM/minecraft-english-server) · [live](https://hailorlem.github.io/minecraft-english-server) |
+| 🧩 **ESL Minecraft Plugins** | Four custom PaperMC plugins: AI-scored chat money, earnings-driven level-ups, vocab quiz, daily tasks | [chat2earn](https://github.com/HailorLEM/chat2earn) · [englishprogression](https://github.com/HailorLEM/englishprogression) · [vocabquiz](https://github.com/HailorLEM/vocabquiz) · [dailyenglish](https://github.com/HailorLEM/dailyenglish) |
 | ⚡ **ChainLuck** | Provably-fair demo crypto casino: Dice, Plinko, Blackjack, Slots. Play money only | [repo](https://github.com/HailorLEM/demo-casino) · [live](https://hailorlem.github.io/demo-casino) |
 | 🏛️ **ИИ × АРХИТЕКТУРА** | Scroll-driven deck: how AI actually enters an architecture/design firm's workflow | [repo](https://github.com/HailorLEM/presentation) · [live](https://hailorlem.github.io/presentation) |
 | 🎬 **AI Experience** | Cinematic video-scroll showreel on adopting AI in a company | [repo](https://github.com/HailorLEM/presentation-video) · [live](https://hailorlem.github.io/presentation-video) |
